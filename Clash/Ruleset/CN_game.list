@@ -1,1 +1,21 @@
 
+  # 腾讯游戏
+  - DOMAIN-SUFFIX,qqgame.com
+  - DOMAIN-SUFFIX,wegame.com
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,gtimg.cn
+  
+  # 网易游戏
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,127.net
+  - DOMAIN-SUFFIX,mudfish.net
+  - DOMAIN-SUFFIX,neteasegames.com
+  
+  # 其他游戏平台
+  - DOMAIN-SUFFIX,4399.com
+  - DOMAIN-SUFFIX,37.com
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,xiaomi.com
+  - DOMAIN-SUFFIX,duoyi.com
